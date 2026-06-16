@@ -282,5 +282,5 @@ Projet open source — libre d'utilisation, de modification et de redistribution
 ---
 
 <p align="center">
-  <sub>Développé pour l'Université Moulay Ismail — Meknès, Maroc</sub>
+  <sub></sub>
 </p>
